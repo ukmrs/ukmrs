@@ -9,8 +9,5 @@
 	<a href="https://github.com/ukmrs"><img src="https://img.shields.io/github/stars/ukmrs?color=cdd6f4&label=GITHUB&style=flat&logo=github" /></a>
 	<a href="mailto:murias.wstork@gmail.com/"><img src="https://img.shields.io/badge/EMAIL-murias.wstork@gmail.com-b4befe?style=flat&logo=protonmail" /></a>
   <a href="https://www.python.org/"><img src="https://img.shields.io/badge/LANG_0-Python-306998?style=flat&logo=python" /></a>
-	<br />
-	<br />
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ukmrs&theme=radical&hide_title=true&langs_count=8&layout=compact&hide_border=true&hide=css,html,shell&exclude_repo=penguin" />
 </div>
 
